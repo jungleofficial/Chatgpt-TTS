@@ -1,2 +1,2 @@
 # Chatgpt-TTS
-Script fiveM ChatGPT + TTS
+Script ESX fiveM ChatGPT + TTS
